@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JenkinsDemo1", "JenkinsDemo1\", "{71A3D95B-93AA-40A1-9CF4-8B37ADA00FA1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52532"
+		Debug.AspNetCompiler.PhysicalPath = "JenkinsDemo1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52532\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52532"
+		Release.AspNetCompiler.PhysicalPath = "JenkinsDemo1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52532\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52532"
+		SlnRelativePath = "JenkinsDemo1\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A3D95B-93AA-40A1-9CF4-8B37ADA00FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A3D95B-93AA-40A1-9CF4-8B37ADA00FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A43C124-7FC5-456A-B44A-5C92A741C9EF}
+	EndGlobalSection
+EndGlobal
